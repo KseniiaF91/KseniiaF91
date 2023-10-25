@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kseniia Fayzulina
-=========================================================================================================================================
+Hi 👋 My name is Kseniia Fayzulina
+==================================
 
 Junior frontend developer
 -------------------------
@@ -7,7 +7,7 @@ Junior frontend developer
 Ищу работу/стажировку на позицию Junior Frontend-разработчик. На данный момент прохожу обучение на Hexlet по данной специальности. Реальный опыт работы отсутствует, но есть огромное желание его приобрести и продолжить развитие в данной сфере.
 
 * 🌍  I'm based in Красноярск
-* ✉️  You can contact me at [ksyushafaizulina@mail.ru]
+* ✉️  You can contact me at [ksyushafaizulina@mail.ru](mailto: ksyushafaizulina@mail.ru)
 * 🧠  I'm learning Hexlet
 
 ### Skills
@@ -26,10 +26,10 @@ Junior frontend developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/KseniiaF91"><img src="https://github-readme-stats.vercel.app/api?username=KseniiaF91&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="KseniiaF91's GitHub stats" /></a>
+<a href="http://www.github.com/KseniiaF91"><img src="https://github-readme-stats.vercel.app/api?username=KseniiaF91&show_icons=true&hide=stars,&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="KseniiaF91's GitHub stats" /></a>
 
-<a href="https://github.com/KseniiaF91" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KseniiaF91&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/KseniiaF91" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KseniiaF91&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/KseniiaF91/frontend-project-44" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KseniiaF91&repo=frontend-project-44&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=1e3a8a&hide_border=true&locale=en" /></a><a href="https://github.com/KseniiaF91/frontend-project-46" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KseniiaF91&repo=frontend-project-46&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/KseniiaF91/frontend-project-44" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KseniiaF91&repo=frontend-project-44&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/KseniiaF91/frontend-project-46" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KseniiaF91&repo=frontend-project-46&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
